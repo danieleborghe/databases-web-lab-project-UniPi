@@ -1,0 +1,21 @@
+-----------------------------------
+//DATI PER L'ACCESSO AGLI ACCOUNT//
+-----------------------------------
+
+------------
+NOMI UTENTE:
+------------
+
+- daniele.borghesi
+- ari.tesc
+- tommi.ro
+- fedegar
+- rossi_mary
+
+---------
+PASSWORD:
+---------
+
+Per tutti gli account è stata impostata la seguente password:
+
+Testuggine-1
